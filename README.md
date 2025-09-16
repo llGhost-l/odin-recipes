@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a website with a variety of recipes
